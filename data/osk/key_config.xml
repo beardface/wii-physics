@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<keys 
+   kbd_bg_file="/config/images/blank_kbd.png"
+   zoom_file="/config/images/key_zoom.png"
+   pointer_file="/config/images/pointer.png"
+   font_file="/config/images/font.png"
+   font_width='32'
+   font_height='32'
+   text_w='580'
+   text_h='114'
+   text_x='22'
+   text_y='36'
+>
+   <!--1st Row-->
+   <key control='0' w='50' h='30' x='16'  y='172' char='1' shift_char='!'></key>
+   <key control='0' w='50' h='30' x='63'  y='172' char='2' shift_char='@'></key>
+   <key control='0' w='50' h='30' x='110' y='172' char='3' shift_char='#'></key>
+   <key control='0' w='50' h='30' x='158' y='172' char='4' shift_char='$'></key>
+   <key control='0' w='50' h='30' x='204' y='172' char='5' shift_char='%'></key>
+   <key control='0' w='50' h='30' x='254' y='172' char='6' shift_char='^'></key>
+   <key control='0' w='50' h='30' x='301' y='172' char='7' shift_char='&amp;'></key>
+   <key control='0' w='50' h='30' x='348' y='172' char='8' shift_char='*'></key>
+   <key control='0' w='50' h='30' x='395' y='172' char='9' shift_char='('></key>
+   <key control='0' w='50' h='30' x='443' y='174' char='0' shift_char=')'></key>
+   <key control='0' w='50' h='30' x='491' y='174' char='-' shift_char='_'></key>
+<!--2nd Row -->
+   <key control='0' w='50' h='30' x='40'  y='208' char='q' shift_char='Q'></key>
+   <key control='0' w='50' h='30' x='84'  y='208' char='w' shift_char='W'></key>
+   <key control='0' w='50' h='30' x='130' y='208' char='e' shift_char='E'></key>
+   <key control='0' w='50' h='30' x='180' y='208' char='r' shift_char='R'></key>
+   <key control='0' w='50' h='30' x='228' y='208' char='t' shift_char='T'></key>
+   <key control='0' w='50' h='30' x='274' y='208' char='y' shift_char='Y'></key>
+   <key control='0' w='50' h='30' x='322' y='208' char='u' shift_char='U'></key>
+   <key control='0' w='50' h='30' x='371' y='208' char='i' shift_char='I'></key>
+   <key control='0' w='50' h='30' x='417' y='208' char='o' shift_char='O'></key>
+   <key control='0' w='50' h='30' x='465' y='208' char='p' shift_char='P'></key>
+<!--3rd Row -->
+   <key control='0' w='50' h='30' x='113' y='248' char='a' shift_char='A'></key>
+   <key control='0' w='50' h='30' x='159' y='248' char='s' shift_char='S'></key>
+   <key control='0' w='50' h='30' x='206' y='248' char='d' shift_char='D'></key>
+   <key control='0' w='50' h='30' x='254' y='248' char='f' shift_char='F'></key>
+   <key control='0' w='50' h='30' x='300' y='248' char='g' shift_char='G'></key>
+   <key control='0' w='50' h='30' x='348' y='248' char='h' shift_char='H'></key>
+   <key control='0' w='50' h='30' x='396' y='248' char='j' shift_char='J'></key>
+   <key control='0' w='50' h='30' x='444' y='248' char='k' shift_char='K'></key>
+   <key control='0' w='50' h='30' x='490' y='248' char='l' shift_char='L'></key>
+   <key control='0' w='50' h='30' x='538' y='248' char=';' shift_char=':'></key>
+
+<!--4th Row -->
+   <key control='0' w='50' h='30' x='121' y='284' char='z' shift_char='Z'></key>
+   <key control='0' w='50' h='30' x='170' y='284' char='x' shift_char='X'></key>
+   <key control='0' w='50' h='30' x='216' y='284' char='c' shift_char='C'></key>
+   <key control='0' w='50' h='30' x='266' y='284' char='v' shift_char='V'></key>
+   <key control='0' w='50' h='30' x='312' y='284' char='b' shift_char='B'></key>
+   <key control='0' w='50' h='30' x='360' y='284' char='n' shift_char='N'></key>
+   <key control='0' w='50' h='30' x='406' y='284' char='m' shift_char='M'></key>
+   <key control='0' w='50' h='30' x='456' y='284' char=',' shift_char='&lt;'></key>
+   <key control='0' w='50' h='30' x='503' y='284' char='.' shift_char='>'></key>
+   <key control='0' w='50' h='30' x='551' y='284' char='/' shift_char='?'></key>
+
+<!--5th Row -->
+   <key control='0' w='50' h='30' x='64'  y='322' char='!' shift_char='!'></key>
+   <key control='0' w='50' h='30' x='112' y='322' char='?' shift_char='?'></key>
+   <key control='0' w='50' h='30' x='160' y='322' char='[' shift_char='{'></key>
+   <key control='0' w='50' h='30' x='208' y='322' char=']' shift_char='}'></key>
+   <key control='0' w='50' h='30' x='432' y='322' char='\' shift_char='|'></key>
+   <key control='0' w='50' h='30' x='480' y='322' char='/' shift_char='?'></key>
+   <key control='0' w='50' h='30' x='527' y='322' char='"' shift_char='"'></key>
+   <key control='0' w='50' h='30' x='576' y='322' char='/' shift_char='@'></key>
+
+<!-- DONT TOUCH THESE CONTROL KEYS -->
+   <key control='1' w='160' h='30' x='260' y='324' char=' ' shift_char=' '></key>
+   <key control='1' w='175' h='65' x='15'  y='418' char='QUIT'  shift_char='QUIT'></key>
+   <key control='1' w='175' h='65' x='450' y='418' char='OK'    shift_char='OK'></key>
+   <key control='1' w='100' h='30' x='520'  y='216' char='RETURN' shift_char='RETURN'></key>
+   <key control='1' w='80' h='30' x='540'  y='176' char='BACKSPACE' shift_char='BACKSPACE'></key>
+   <key control='1' w='100' h='30' x='16'  y='290' char='SHIFT' shift_char='SHIFT'></key>
+   <key control='1' w='90'  h='30' x='16'  y='249' char='CAPS'  shift_char='CAPS'></key>
+</keys>

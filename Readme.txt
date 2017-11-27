@@ -1,7 +1,7 @@
-# WiiPhysics 2.2.0
+WiiPhysics 2.2.0
   By Beardface
   
-## ChangeLog:
+ChangeLog:
 
 2.x.x
  +Added holding B to pan camera with cursor
@@ -90,15 +90,15 @@
  +Pulley/joint bug fixes to stop crashing!
  +fixed layout a bit
   
-## Overview:
+ Overview:
    A physics emulator for the wii using Box2d and libwiisprite!
    
 
-## Installing:
+ Installing:
    Copy everything in WiiPhysics folder to apps/ and launch from HBC
  
-## Controls
+ Controls
   See In game help for how to.
 	
-## Help/Request:
+Help/Request:
  beardfacemcbeard AT gmail DOT com
